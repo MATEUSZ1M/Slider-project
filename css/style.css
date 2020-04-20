@@ -18,24 +18,25 @@ body {
   width: 1000px;
 }
 
-.slider{
-   margin-top: 10vh;
+.slider {
+  margin-top: 10vh;
+}
 
-   i{
-       padding: 5px;
-   }
-  }
+.slider i {
+  padding: 5px;
+}
 
-.rings{
-    margin: 20px 0;
+.rings {
+  margin: 20px 0;
 }
 
 img {
   width: 100%;
   height: auto;
   display: none;
-
-  &.active {
-    display: block;
-  }
 }
+
+img.active {
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
